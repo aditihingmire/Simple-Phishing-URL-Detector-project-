@@ -1,2 +1,4 @@
 # Simple-Phishing-URL-Detector-project-
-A basic Python project that checks a URL for suspicious words or patterns and labels it as Safe or Suspicious.
+The Simple Phishing URL Detector is a beginner-friendly Python project that checks whether a URL contains common suspicious words or patterns used in phishing websites. It analyzes the entered URL and displays a basic result as Safe or Suspicious. 
+
+
